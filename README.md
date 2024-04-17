@@ -1,1 +1,1 @@
-# 24webproject
+# Just for Univercity Example.
